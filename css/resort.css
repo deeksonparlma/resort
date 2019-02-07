@@ -1,0 +1,39 @@
+#topnav {
+  background-image: url("https://t-ec.bstatic.com/images/hotel/max1024x768/889/88902727.jpg");
+  height: 680px;
+
+}
+#topnav >li {
+  display: inline;
+  justify-content: space-between;
+  display: flex;
+}
+#topnav>li>a{
+  text-decoration: none;
+  color:#072420;
+  align-items: center;
+
+}
+.active {
+  background-color:
+}
+nav > li {
+  top:20px;
+  float: left;
+  justify-content: space-around;
+  padding:0px 6px 0px 0px;
+}
+#topnav>p {
+  text-align: center;
+}
+#topnav>p {
+  font-size: 40px;
+}
+#topnav >center>button {
+  border-radius: 30px;
+  height:auto;
+  width:auto;
+  font-size: 25px;
+  color:#716072;
+  opacity: 0.9;
+}
